@@ -1,0 +1,24 @@
+# VCS
+simv
+simv.daidir/
+csrc/
+ucli.key
+
+# Verdi
+verdiLog/
+*.fsdb
+*.vpd
+*.vcd
+DVEfiles/
+novas*
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
