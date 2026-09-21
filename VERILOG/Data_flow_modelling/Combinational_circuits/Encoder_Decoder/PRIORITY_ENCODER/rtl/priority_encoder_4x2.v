@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - priority_encoder_4x2.v
+
 module priority_encoder_4x2(
     input a0,
     input a1,

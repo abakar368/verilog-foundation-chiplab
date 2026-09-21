@@ -19,4 +19,9 @@ initial begin
     #5;
 end
 
+initial begin
+	$fsdbDumpfile("dump.fsdb");
+	$fsdbDumpvars(0, cla_4bit_tb);
+end
+
 endmodule

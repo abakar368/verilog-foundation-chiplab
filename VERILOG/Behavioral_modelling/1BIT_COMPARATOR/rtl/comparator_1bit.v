@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - comparator_1bit.v
+
 module comparator_1bit(
     input A,
     input B,

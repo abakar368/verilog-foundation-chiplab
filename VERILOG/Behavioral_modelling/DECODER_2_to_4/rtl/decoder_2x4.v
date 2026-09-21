@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - decoder_2x4.v
+
 module decoder_2x4(
     input [1:0] A,
     output reg [3:0] Y

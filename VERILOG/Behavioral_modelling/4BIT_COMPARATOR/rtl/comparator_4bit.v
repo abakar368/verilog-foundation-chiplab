@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - comparator_4bit.v
+
 module comparator_4bit(
     input [3:0] A,
     input [3:0] B,

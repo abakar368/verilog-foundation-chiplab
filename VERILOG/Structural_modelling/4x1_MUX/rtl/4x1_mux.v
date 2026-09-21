@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - 4x1_mux.v
+
 module mux2x1(
     input i0,
     input i1,

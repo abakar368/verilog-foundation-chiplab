@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - demux_1x2.v
+
 module demux_1x2(
     input D,
     input S,

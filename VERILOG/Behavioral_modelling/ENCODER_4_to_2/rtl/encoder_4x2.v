@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - encoder_4x2.v
+
 module encoder_4x2(
     input [3:0] D,
     output reg [1:0] Y

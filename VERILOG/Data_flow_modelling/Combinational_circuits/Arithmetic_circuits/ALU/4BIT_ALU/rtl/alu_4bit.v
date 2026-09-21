@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - alu_4bit.v
+
 module alu_4bit(
     input [3:0] a,
     input [3:0] b,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - half_adder.v
+
 module half_adder(
     input A,
     input B,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - gray_to_binary.v
+
 module gray_to_binary(
     input [3:0] G,
     output reg [3:0] B

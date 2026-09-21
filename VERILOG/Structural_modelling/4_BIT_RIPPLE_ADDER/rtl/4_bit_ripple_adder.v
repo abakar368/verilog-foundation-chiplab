@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - 4_bit_ripple_adder.v
+
 module full_adder(
     input a, b, cin,
     output sum, carry

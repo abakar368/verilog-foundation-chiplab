@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - mux_4x1.v
+
 module mux_4x1(
     input a, b, c, d,
     input [1:0] sel,

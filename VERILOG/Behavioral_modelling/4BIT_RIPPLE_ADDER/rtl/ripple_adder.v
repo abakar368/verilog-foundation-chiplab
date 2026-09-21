@@ -1,3 +1,5 @@
+//Abubakar Adam - 21-09-2026 - ripple_adder.v
+
 module ripple_carry_adder(
     input [3:0] A,
     input [3:0] B,
