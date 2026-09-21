@@ -1,4 +1,4 @@
-//Abubakar Adam - 21-09-2026 - comparator_1bit.v
+//Abubakar Adam - 05-07-2026 - comparator_1bit.v
 
 module comparator_1bit(
 	input a,

@@ -1,3 +1,4 @@
+//Abubakar Adam - 05-07-2026 - full_subtractor.v
 module half_subtractor(
     input A,
     input B,

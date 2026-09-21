@@ -1,4 +1,4 @@
-//Abubakar Adam - 21-09-2026 - full_adder.v
+//Abubakar Adam - 05-07-2026 - full_adder.v
 
 module full_adder(
 	input a,
