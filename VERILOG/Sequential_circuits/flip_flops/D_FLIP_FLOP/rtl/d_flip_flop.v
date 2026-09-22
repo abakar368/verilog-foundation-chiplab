@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - d_flip_flop.v
+
 module d_ff (
     input  d,
     input  clk,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - decoder_2x4.v
+
 module decoder2x4(
     input a,
     input b,

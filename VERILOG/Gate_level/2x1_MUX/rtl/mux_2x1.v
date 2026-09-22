@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - mux_2x1.v
+
 module mux2x1(
     input a,
     input b,

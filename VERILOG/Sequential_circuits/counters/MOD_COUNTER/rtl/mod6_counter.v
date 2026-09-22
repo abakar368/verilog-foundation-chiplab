@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - mod6_counter.v
+
 module mod6_counter(
     input clk,
     input rst_n,

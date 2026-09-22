@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - encoder_4x2.v
+
 module encoder4x2(
     input d0,
     input d1,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - sr_flip_flop.v
+
 module sr_ff (
     input s,
     input r,

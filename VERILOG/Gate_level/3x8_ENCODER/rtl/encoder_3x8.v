@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - encoder_3x8.v
+
 module encoder8x3(
     input d0,
     input d1,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - full_adder.v
+
 module full_adder(
     input a, b, cin,
     output sum, carry

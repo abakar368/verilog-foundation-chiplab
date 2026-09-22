@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - up_counter.v
+
 module up_counter(
     input clk,
     input rst_n,

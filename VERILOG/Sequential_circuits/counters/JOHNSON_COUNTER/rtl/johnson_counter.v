@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - johnson_counter.v
+
 module johnson_counter(
     input clk,
     input rst_n,

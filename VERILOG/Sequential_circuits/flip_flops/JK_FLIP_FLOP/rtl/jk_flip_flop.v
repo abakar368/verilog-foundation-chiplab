@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - jk_flip_flop.v
+
 module jk_ff (
     input j,
     input k,

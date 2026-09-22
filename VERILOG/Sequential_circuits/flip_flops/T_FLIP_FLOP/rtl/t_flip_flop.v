@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - t_flip_flop.v
+
 module t_flip_flop (
     input  t,
     input  clk,

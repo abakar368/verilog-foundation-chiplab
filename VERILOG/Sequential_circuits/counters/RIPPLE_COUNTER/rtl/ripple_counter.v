@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - ripple_counter.v
+
 module t_ff(
     input clk,
     input rst_n,

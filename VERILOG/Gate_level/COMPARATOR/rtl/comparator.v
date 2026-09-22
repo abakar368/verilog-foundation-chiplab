@@ -1,3 +1,5 @@
+//Abubakar Adam - 22-09-2026 - comparator.v
+
 module comparator(
     input a,
     input b,
