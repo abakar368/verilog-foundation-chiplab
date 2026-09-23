@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - full_subtractor.v
+
 module full_subtractor_mux(
 
 input A,

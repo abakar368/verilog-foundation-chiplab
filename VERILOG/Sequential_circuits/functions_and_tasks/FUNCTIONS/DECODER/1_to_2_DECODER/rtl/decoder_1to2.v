@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - decoder_1to2.v
+
 module decoder_1to2_mux(
 
 input A,

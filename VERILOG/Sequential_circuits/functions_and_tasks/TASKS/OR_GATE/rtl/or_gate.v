@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - or_gate.v
+
 module or_gate_task(
     input A,
     input B,

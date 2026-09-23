@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - half_subtractor.v
+
 module half_subtractor_mux(
 
 input A,

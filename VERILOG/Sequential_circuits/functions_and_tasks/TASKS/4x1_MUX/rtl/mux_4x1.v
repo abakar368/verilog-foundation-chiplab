@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - mux_4x1.v
+
 module mux_4x1_task(
     input  [3:0] in,
     input  [1:0] sel,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - mealy.v
+
 module mealy_1011_nonoverlap (
     input clk,
     input rst,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - not_gate.v
+
 module not_gate(
     input A,
     output Y

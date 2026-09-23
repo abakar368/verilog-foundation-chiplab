@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - 2_to_4_decoder.v
+
 module decoder_2_to_4 (
     input wire [1:0] A, // 2-bit input
     output reg [3:0] Y // 4-bit output

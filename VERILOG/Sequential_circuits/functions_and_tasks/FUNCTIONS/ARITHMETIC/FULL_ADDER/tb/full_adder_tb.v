@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - full_adder.v
+
 module tb_full_adder_mux;
 
 reg A;

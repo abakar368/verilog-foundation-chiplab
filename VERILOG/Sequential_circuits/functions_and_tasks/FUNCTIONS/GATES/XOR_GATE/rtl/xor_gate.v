@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - xor_gate.v
+
 module xor_gate(
     input A,
     input B,    

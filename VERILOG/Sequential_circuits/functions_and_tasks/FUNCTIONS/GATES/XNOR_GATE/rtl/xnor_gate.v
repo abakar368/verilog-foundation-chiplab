@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - xnor_gate.v
+
 module xnor_gate(
     input A,
     input B,    

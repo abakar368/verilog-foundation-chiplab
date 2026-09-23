@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - 1bit_comparator.v
+
 module comparator_mux(
 
 input A,

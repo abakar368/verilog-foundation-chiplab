@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - mealy.v
+
 module mealy_1011 (
     input clk,
     input rst,

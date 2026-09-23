@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - encoder_4to2.v
+
 module encoder_4to2_mux(
     input  [3:0] in,
     output [1:0] out

@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - 8x1_mux.v
+
 module mux_8x1(
     input [7:0] in,
     input [2:0] sel,

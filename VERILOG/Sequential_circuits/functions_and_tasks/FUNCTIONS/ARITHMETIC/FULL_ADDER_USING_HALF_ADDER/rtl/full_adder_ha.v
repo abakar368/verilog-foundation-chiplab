@@ -1,3 +1,5 @@
+//Abubakar Adam - 23-09-2026 - full_adder_ha.v
+
 module full_adder_ha(
     input a,
     input b,
