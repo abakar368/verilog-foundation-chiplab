@@ -1,3 +1,5 @@
+//Abubakar Adam - 24-09-2026 - piso.v
+
 module piso (
     input        clk,
     input        rst_n,
@@ -16,7 +18,7 @@ always @(posedge clk) begin
         q <= parallel_in;
 
     else begin
-        q[3] <= 1'bx;
+        q[3] <= 1'b0;
         q[2] <= q[3];
         q[1] <= q[2];
         q[0] <= q[1];

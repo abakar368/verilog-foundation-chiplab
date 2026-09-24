@@ -1,3 +1,5 @@
+//Abubakar Adam - 24-09-2026 - gated_sr_latch.v
+
 module gated_sr_latch (
     input  s,
     input  r,

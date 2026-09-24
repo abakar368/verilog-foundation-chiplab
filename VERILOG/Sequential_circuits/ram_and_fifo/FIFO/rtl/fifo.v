@@ -1,3 +1,5 @@
+//Abubakar Adam - 24-09-2026 - fifo.v
+
 module sync_fifo #(
     parameter DATA_WIDTH = 8,
     parameter DEPTH = 8,

@@ -1,3 +1,5 @@
+//Abubakar Adam - 24-09-2026 - sipo.v
+
 module sipo(
     input clk,
     input rst_n,

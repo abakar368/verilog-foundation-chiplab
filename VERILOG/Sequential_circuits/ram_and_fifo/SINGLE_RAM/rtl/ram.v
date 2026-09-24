@@ -1,3 +1,5 @@
+//Abubakar Adam - 24-09-2026 - ram.v
+
 module single_port_ram #(
     parameter DATA_WIDTH = 8,
     parameter ADDR_WIDTH = 4,
